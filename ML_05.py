@@ -357,17 +357,3 @@ if __name__ == "__main__":
 
         coord.join(threads)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
